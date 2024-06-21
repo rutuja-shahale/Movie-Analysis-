@@ -1,4 +1,3 @@
-create database movie;
 -- 1. Query to find the name and year of the movies.
 select mov_title, mov_year from movie;
 
