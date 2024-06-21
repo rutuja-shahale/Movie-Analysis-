@@ -1,16 +1,16 @@
 # Music-Analysis
 
-✤ Project Description:
+✽ Project Description:
 
 The objective of movie database is to help users find basic viewing information about movies such as casting, ratings, directors etc.
 
 Besides displaying the ratings from popular websites such as IMDB, The Movie database allows user to provide feedback.
 
-✤ Tool Used:
+✽ Tool Used:
 
 • MySQL
 
-✤ Tables Used:
+✽ Tables Used:
 
 • Actor
 
@@ -30,7 +30,7 @@ Besides displaying the ratings from popular websites such as IMDB, The Movie dat
 
 • Reviewer
 
-✤ Queries of the Projects:-
+✽ Queries of the Projects:-
 
 Q1. Write an SQL query to find the name and year of the movies.
 
