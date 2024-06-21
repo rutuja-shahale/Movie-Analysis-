@@ -7,9 +7,11 @@ The objective of movie database is to help users find basic viewing information 
 Besides displaying the ratings from popular websites such as IMDB, The Movie database allows user to provide feedback.
 
 ✤ Tool Used:
+
 MySQL
 
 ✤ Tables Used:
+
 • Actor
 
 • Director
