@@ -30,6 +30,8 @@ Besides displaying the ratings from popular websites such as IMDB, The Movie dat
 
 • Reviewer
 
+✤ Queries of the Projects:-
+
 Q1. Write an SQL query to find the name and year of the movies.
 
 Q2. Write an SQL query to find the release year of the movie 'Titanic'.
