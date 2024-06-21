@@ -8,7 +8,7 @@ Besides displaying the ratings from popular websites such as IMDB, The Movie dat
 
 ✤ Tool Used:
 
-MySQL
+• MySQL
 
 ✤ Tables Used:
 
