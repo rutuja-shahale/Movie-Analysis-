@@ -1,4 +1,4 @@
-# Music-Analysis
+# Movie-Analysis
 
 ✽ Project Description:
 
